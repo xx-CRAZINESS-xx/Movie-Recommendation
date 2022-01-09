@@ -1,0 +1,210 @@
+body {
+    margin: 0px;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 400;
+    line-height: 1.6;
+    color: rgb(250, 250, 250);
+    background-color: #232323;
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-font-smoothing: auto;
+    background-image: url(https://img.wallpapersafari.com/desktop/1920/1080/99/11/qxkEbu.jpg);
+}
+
+.css-ffhzg2 {
+    font-family: sans-serif;
+    position: absolute;
+    color: rgb(250, 250, 250);
+    inset: 0px;
+    overflow: hidden;
+    margin-top: -60px;
+    background-image: url(https://img.wallpapersafari.com/desktop/1920/1080/99/11/qxkEbu.jpg);
+}
+
+.css-12oz5g7 {
+    flex: 1 1 0%;
+    width: 100%;
+    padding: 6rem 1rem 10rem;
+    max-width: 150rem;
+}
+
+@media (min-width: 150rem)
+<style>
+.css-12oz5g7 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    max-width: 150rem;
+}
+
+.css-16huue1 {
+    font-size: 18px;
+    color: rgb(250, 250, 250);
+    margin-bottom: 18px;
+    height: auto;
+    min-height: 1.5rem;
+    vertical-align: middle;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.st-af {
+    font-size: 1.35rem;
+    background: #232323;
+}
+
+.st-d9 {
+    border-bottom-color: rgb(255, 75, 75);
+}
+
+
+.st-d8 {
+    border-top-color: rgb(255, 75, 75);
+}
+
+.st-d7 {
+    border-right-color: rgb(255, 75, 75);
+}
+
+.st-d6 {
+    border-left-color: rgb(255, 75, 75);
+}
+
+.st-bu {
+    background: #232323;
+    border-width: medium;
+    border-color: red;
+}
+
+.st-bt {
+    background-color: #232323;
+    border-width: medium;
+    border-color: red;
+    border: inset;
+}
+
+.st-bs {
+    border-bottom-color: red;
+}
+
+.st-br {
+    border-top-color: red;
+}
+
+.st-bq {
+    border-right-color: red;
+}
+
+.st-bp {
+    border-left-color: red;
+}
+
+.css-c35rmz {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-weight: 400;
+    padding: 0.25rem 0.75rem;
+    border-radius: 0.25rem;
+    margin: 0px;
+    line-height: 1.6;
+    color: inherit;
+    width: auto;
+    user-select: none;
+    background-color: #232323;
+    border-color: red;
+    border-width: medium;
+    margin-top: 15px;
+}
+
+.css-183lzff {
+    font-family: sans-serif;
+    white-space: pre;
+    font-size: 19px;
+    overflow-x: auto;
+}
+
+.css-ocqkz7 {
+    margin-top: 18px;
+    display: flex;
+    flex-wrap: wrap;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    gap: 1rem;
+}
+
+.css-e370rw {
+    position: absolute;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    z-index: 101;
+    height: 2.5rem;
+    width: 2.5rem;
+    transition: opacity 300ms ease 150ms, transform 300ms ease 150ms;
+    border: none;
+    color: rgba(250, 250, 250, 0.6);
+    border-radius: 50%;
+    right: -3rem;
+    top: -0.375rem;
+    opacity: 0;
+    transform: scale(0);
+    background-color: rgb(19, 23, 32);
+    visibility: hidden;
+}
+
+.css-1v0mbdj {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    width: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    border: inset;
+    border-color: red;
+}
+
+img, svg {
+    vertical-align: middle;
+    max-height: 683px;
+    height: 683px;
+}
+
+p, ol, ul, dl {
+    font-family: sans-serif;
+    margin: 0px 0px 1rem;
+    padding: 0px;
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+
+.st-fb {
+    background-color: #232323;
+    border: inset;
+    border-color: red;
+}
+
+
+.st-fa {
+    border-bottom-color: red;
+}
+
+.st-f9 {
+    border-top-color: red;
+}
+
+.st-f8 {
+    border-right-color: red;
+}
+
+.st-f7 {
+    border-left-color: red;
+}
